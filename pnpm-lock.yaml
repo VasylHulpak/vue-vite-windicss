@@ -1,6 +1,9 @@
 lockfileVersion: '6.0'
 
 dependencies:
+  capitalize-each-word:
+    specifier: ^0.0.3
+    version: 0.0.3
   vue:
     specifier: ^3.3.4
     version: 3.3.4
@@ -446,6 +449,10 @@ packages:
     dependencies:
       fill-range: 7.0.1
     dev: true
+
+  /capitalize-each-word@0.0.3:
+    resolution: {integrity: sha512-bAgmEOyBhhqmHS6SW/DYZVBaXuXtAqUXAR2GPMjeyXqCQ66C9cKqsGkDaZh4494gg778QU9FOt2GkFJJVDF8yA==}
+    dev: false
 
   /csstype@3.1.2:
     resolution: {integrity: sha512-I7K1Uu0MBPzaFKg4nI5Q7Vs2t+3gWWW648spaF+Rg7pI9ds18Ugn+lvg4SHczUdKlHI5LWBXyqfS8+DufyBsgQ==}
